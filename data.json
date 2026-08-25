@@ -103,10 +103,10 @@
     "capacity": 2,
     "bedType": "1 King Bed",
     "totalRooms": 3,
-    "amenities": ["Free Wi-Fi", "Jacuzzi", "Champagne Service", "Ocean View", "Room Service 24/7"],
+    "amenities": ["Free Wi-Fi", "Jacuzzi", "Champagne Service", "Room Service 24/7"],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oVB90bHTxWvoQtKdt-Imy6mE-KcWYyQUUnACUSS_RA&s=10",
     "description": "Nikmati detik-detik romantis bersama pasangan di suite mewah kami, menawarkan fasilitas Jacuzzi privat dan suasana privat yang elegan untuk menyempurnakan momen bulan madu Anda."
-  },
+  }
   {
     "id": 8,
     "name": "Presidential Suite",
